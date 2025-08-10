@@ -1,31 +1,48 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "Name of the work 2"
+title = "Distorted Memories of Future Self"
 draft = false
-image = "img/portfolio/business-card-26.jpg"
+image = "img/portfolio/1-distorted.png"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+![2-distorted.png](/img/portfolio/2-distorted.png)
+
+Sometimes, I feel as though I’m a distant, distorted memory of a future self—
+a mind clouded by Alzheimer’s,
+struggling to comprehend flashbacks:
+scenes of the unimaginable suffering of a people.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+During these delusional episodes,
+I see images of starving children,
+horrors of collective torment laid bare before everyone’s eyes.
 
-## Header Level 2
+In that distant future reality, I keep telling myself:
+I’m confused.
+It’s the disease.
+It must be my mind playing tricks on me.
+Surely, a world of such raw, naked injustice
+cannot exist without response.
+Cannot persist without consequence.
+Surely, such a world should not exist.
+It must be a trick of the mind.
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+It cannot be that those who could break the silence instead carry the tyrant’s voice;
+those who could shift the course instead steady terror’s hand—
+while the oppressed, the tortured, the unsheltered, and the unfed
+are abandoned in a dead vacuum of haughty indifference.
+Surely such a world cannot be,
+should not be.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+When I fall asleep,
+my dreams feel like how the world should be—
+unremarkable breaths of everyday life.
+In the dream state, I find a landing.
+I tell myself:
+Ah, I just had an episode.
+This—this is my real life.
